@@ -1,3 +1,6 @@
+/*** This is template**/
+
+
 #include<iostream.h>
 #define n 13
 template <class T>
